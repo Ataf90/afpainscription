@@ -28,9 +28,9 @@ h1 {
   text-align: center;
   margin: 1rem;
 }
-h3 (:nth-child()) {
+/* h3 (:nth-child()) {
   margin-bottom: 100px;
-}
+} */
 fieldset {
   display: flex;
   flex-direction: column;
