@@ -3,18 +3,18 @@
   margin: 0;
   padding: 0;
   font-size: 20px;
-  /* border: 1px solid red; */
+  border: 1px solid red;
 }
 main {
   width: 40%;
   margin: 0.5rem auto;
   padding: 15px;
-  border: 1px solid #3e3744;
+  border: 1px solid #ebe5f0;
   border-radius: 10px;
-  box-shadow: 5px 5px 5px #3a3939;
+  box-shadow: 5px 5px 5px #dbd8d8;
 }
 .ma-class {
-  background-color: rgb(186, 186, 210);
+  background-color: rgb(127, 117, 117);
 }
 #mon_id {
   background-color: rgb(206, 87, 50);
