@@ -1,0 +1,51 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  /* border: 1px solid red; */
+}
+main {
+  width: 40%;
+  margin: 0.5rem auto;
+  padding: 15px;
+  border: 1px solid #3e3744;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px #3a3939;
+}
+.ma-class {
+  background-color: rgb(186, 186, 210);
+}
+#mon_id {
+  background-color: rgb(206, 87, 50);
+}
+img {
+  display: block;
+  width: 20%;
+  margin: 0.5rem auto;
+}
+h1 {
+  text-align: center;
+  margin: 1rem;
+}
+/* h3 (:nth-child()) {
+  margin-bottom: 100px;
+} */
+fieldset {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 15px;
+  margin: 5px auto;
+  border-radius: 10px;
+}
+label {
+  display: block;
+  margin: 5px auto;
+}
+input[type="submit"] {
+  padding: 10px;
+  border-radius: 5px;
+  cursor: pointer;
+}
